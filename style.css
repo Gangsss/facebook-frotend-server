@@ -1,0 +1,17 @@
+li {
+    color :red;
+    text-decoration: underline;
+}
+.viewed{
+    text-decoration: line-through;
+}
+ol{
+    border-right: 10px mediumseagreen;
+    width : 150px;
+    margin-top: 0px;
+    margin-bottom :0px;
+}         
+#container{
+    display : grid;
+    grid-template-columns: 150px 1fr;
+}
